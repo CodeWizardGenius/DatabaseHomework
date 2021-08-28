@@ -9,5 +9,5 @@
 
  [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bar%C4%B1%C5%9Fkarapelit/
-[Instagram-shield]: https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png
+[Instagram-shield]: https://img.shields.io/twitter/follow/bariskarapelit?style=for-the-badge&logo=Instagram&colorB=555
 [Instagram-url]:https://www.instagram.com/bariskarapelit.exe/
