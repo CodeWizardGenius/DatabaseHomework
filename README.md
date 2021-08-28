@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][Instagram-shield]][Instagram-url][![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][Instagram-shield]][Instagram-url] [![Twitter][twitter-shield]][twitter-url]
 
 <p align="center">
   <img width="80" height="80" src="https://raw.githubusercontent.com/BarisKarapelit/DatabaseHomework/master/Sigorta/src/Icons/app-icon_waifu2x_art_noise3_scale_tta_1.png">
