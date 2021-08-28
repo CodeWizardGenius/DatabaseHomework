@@ -37,9 +37,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-
+<h3 align="center">Main Screen</h3>
+### 
+<p align="center">
+  <img  src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/Giri%C5%9F.png?raw=true">
+</p>
 
 
 
