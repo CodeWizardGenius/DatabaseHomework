@@ -38,17 +38,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<h3 align="center">Main Screen</h3>
+<h3 align="center">Login Screen</h3>
 
 
-<p align="center">
-  <img  src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/Giri%C5%9F.png?raw=true">
+<p align="center" >
+  <img width="600" height="600" src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/Giri%C5%9F.png?raw=true">
 </p>
 
 
+<h3 align="center">Home Screen</h3>
 
-
-
+<p align="center">
+<img width="600" height="600"src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/HomePage.png?raw=true">
 
 
 
