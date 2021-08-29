@@ -82,7 +82,7 @@
 
 <h3 align="center">Update Customer Screen</h3>
 <p align="center">
-<img width="600" height="600"src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/UpadateCustomerPage.png?raw=true">
+<img width="600" height="600"src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/UpdateCustomerPage.png?raw=true">
 <h3 align="center">Update Personal Screen</h3>
 <p align="center">
 <img width="600" height="600"src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/UpdatePersonalPage.png?raw=true">
