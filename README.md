@@ -98,8 +98,8 @@ This project has been done for customer and product management of Insurance Comp
 
 ##Built With
 
--Java 
--phpMyAdmin 
+- Java 
+- phpMyAdmin 
 
 
 
