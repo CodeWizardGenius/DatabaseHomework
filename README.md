@@ -98,9 +98,9 @@ This project has been done for customer and product management of Insurance Comp
 
 ##Built With
 
-1.Java 
-2.phpMyAdmin 
-3.
+-Java 
+-phpMyAdmin 
+
 
 
 
