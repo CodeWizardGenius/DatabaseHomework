@@ -98,9 +98,10 @@ This project has been done for customer and product management of Insurance Comp
 
 ## Built With
 
-- Java 
+- Java
+- Sql 
 - phpMyAdmin 
-
+- Wamp Server 
 
 
 
