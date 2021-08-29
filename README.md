@@ -96,8 +96,11 @@ This project was done for the Database Management Systems and Programming-II cou
 
 This project has been done for customer and product management of Insurance Companies.
 
+##Built With
 
-
+  1.Java 
+  2.phpMyAdmin 
+  3.
 
 
 
