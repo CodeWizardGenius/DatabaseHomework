@@ -92,6 +92,26 @@
 <img width="600" height="600"src="https://github.com/BarisKarapelit/DatabaseHomework/blob/master/Sigorta/Ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/UpdatePolicy.png?raw=true">
 
 
+This project was done for the Database Management Systems and Programming-II course at the International University of Cyprus.
+
+This project has been done for customer and product management of Insurance Companies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
